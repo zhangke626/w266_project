@@ -9,5 +9,5 @@ Step 2:
 Step 3:
 
 Step 4:Summarization using objective sentences deteremined using Step 3
-Objective_Summary.ipynb -> summary_final.csv
+Objective_Summary_Exploration.ipynb -> Objective_Summary_Final.ipynb -> summary_final.csv
 Step 5: 
