@@ -11,7 +11,7 @@ Step 3:Subjectivity classification Model baseline + fine-tuning
 Subjectivity_Classification_final -> training_data_with_objectivity (relabeled the data using the fine-tuned model)
 
 Step 4:Summarization using objective sentences deteremined using Step 3
-Objective_Summary.ipynb -> summary_final.csv
+Objective_Summary_Exploration.ipynb.ipynb -> Objective_Summary_Final_Model.ipynb -> summary_final.csv
 
 Step 5: Used the fine tuned model (subjectivity_classification_final) to classify the summary_final 
 summary_final_classified
