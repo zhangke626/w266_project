@@ -15,3 +15,5 @@ Objective_Summary.ipynb -> summary_final.csv
 
 Step 5: Used the fine tuned model (subjectivity_classification_final) to classify the summary_final 
 summary_final_classified
+
+Report: Enhancing Trust in News_ A Subjectivity Classification and Mitigation Approach.pdf
